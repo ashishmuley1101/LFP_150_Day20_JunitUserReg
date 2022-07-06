@@ -20,6 +20,11 @@
 			<version>5.9.0-M1</version>
 			<scope>test</scope>
 		</dependency>
-
+	<dependency>
+    <groupId>pl.pragmatists</groupId>
+    <artifactId>JUnitParams</artifactId>
+    <version>1.0.5</version>
+    <scope>test</scope>
+</dependency>
 	</dependencies>
 </project>

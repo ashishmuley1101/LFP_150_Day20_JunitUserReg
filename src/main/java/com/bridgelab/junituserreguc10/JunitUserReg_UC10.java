@@ -34,7 +34,7 @@ public class JunitUserReg_UC10 {
 	
 	@Test
 	public void checkPwd() {
-		String testPwd = "Password@123";
+		String testPwd = "Passwaord@123";
 		assertEquals(true, userreg.validatePwd(testPwd));
 	}
 
